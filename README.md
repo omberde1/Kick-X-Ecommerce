@@ -85,3 +85,10 @@ Kick X is an e-commerce platform for buying and selling shoes. It features two m
 ![KickXLogoutPage](https://github.com/user-attachments/assets/2aa04fe8-ac67-427d-b4b6-f286f122ad88)
 ![CustomerTrynaAccessAdminPanel](https://github.com/user-attachments/assets/c2a387e0-de88-4dd3-91c5-f74d19a0ec2d)
 
+## License
+###This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+###For questions or feedback, feel free to reach out:
+- Email: omberde0@gmail.com
+- My Portfolio (Linktress): https://linktr.ee/omberde0
