@@ -120,5 +120,5 @@ Kick X is an e-commerce platform for buying and selling shoes. It features two m
 
 ### PS
 - This was my first solo project using ASP.NET Core so there could be some minor flaws present here & there.
-- Also, its still incomplete as the some things are need to be implemented such as pagination, searching, sorting, etc. (Its only included in some parts of the project tho).
-- Anyways, any suggestions / contributions are welcomed.
+- Also, this project is still inprogress and some things are still to be implemented such as pagination, searching, sorting, etc. (Its only included in some parts of the project tho).
+- However, any suggestions / contributions are warmly welcomed.
