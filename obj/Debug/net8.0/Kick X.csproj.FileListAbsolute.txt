@@ -173,3 +173,4 @@ E:\CODING_OM\Kick X\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cry
 E:\CODING_OM\Kick X\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
 E:\CODING_OM\Kick X\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
 E:\CODING_OM\Kick X\obj\Debug\net8.0\scopedcss\Views\Home\Misc\_Layout.cshtml.rz.scp.css
+E:\CODING_OM\Kick X\obj\Debug\net8.0\Kick X.sourcelink.json
