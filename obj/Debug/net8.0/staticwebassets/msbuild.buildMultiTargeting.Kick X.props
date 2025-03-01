@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kick X.props" />
+</Project>

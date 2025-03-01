@@ -1,0 +1,98 @@
+@model Customer
+
+<div class="bg-light py-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-0">
+                <a href="/Customer/Home">Home</a> <span class="mx-2 mb-0">/</span>
+                <strong class="text-black col-md-12">Profile</strong>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 mb-5 mb-md-0">
+                <h2 class="h3 mb-3 text-black col-md-12">Profile Details</h2>
+                <form id="profileForm" class="p-3 p-lg-5 border" asp-action="ProfileEdit" asp-controller="Customer" method="post">
+                    <!-- Hidden Fields -->
+                    <input asp-for="customer_id" type="hidden" style="display: none;" />
+                    <input asp-for="customer_password" type="hidden" style="display: none;" />
+
+                    <!-- Name -->
+                    <div class="form-group row">
+                        <label for="customer_name" class="text-black col-md-12">Name <span class="text-danger">*</span></label>
+                        <input value="@Model.customer_name" asp-for="customer_name" id="customer_name" type="text" class="form-control" required />
+                        <span id="nameError" class="text-danger"></span>
+                    </div>
+
+                    <!-- Address -->
+                    <div class="form-group row">
+                        <label for="customer_address" class="text-black col-md-12">Address <span class="text-danger">*</span></label>
+                        <textarea value="@Model.customer_city" asp-for="customer_address" id="customer_address" cols="30" rows="5" class="form-control" required></textarea>
+                        <span id="addressError" class="text-danger"></span>
+                    </div>
+
+                    <!-- City and Postal Code -->
+                    <div class="form-group row">
+                        <div class="col-md-6">
+                            <label for="customer_city" class="text-black">City <span class="text-danger">*</span></label>
+                            <input value="@Model.customer_city" asp-for="customer_city" id="customer_city" type="text" class="form-control" required />
+                            <span id="cityError" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="customer_pincode" class="text-black">Postal / Zip <span class="text-danger">*</span></label>
+                            <input value="@Model.customer_pincode" asp-for="customer_pincode" id="customer_pincode" type="text" class="form-control" required />
+                            <span id="pincodeError" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Email and Phone -->
+                    <div class="form-group row">
+                        <div class="col-md-6">
+                            <label for="customer_email" class="text-black">Email Address <span class="text-danger">*</span></label>
+                            <input value="@Model.customer_email" asp-for="customer_email" id="customer_email" type="text" class="form-control" readonly />
+                        </div>
+                        <div class="col-md-6">
+                            <label for="customer_phone" class="text-black">Phone <span class="text-danger">*</span></label>
+                            <input value="@Model.customer_phone" asp-for="customer_phone" id="customer_phone" type="text" class="form-control" required />
+                            <span id="phoneError" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <!-- Country -->
+                    <div class="form-group row">
+                        <label for="customer_country" class="text-black col-md-12">Country <span class="text-danger">*</span></label>
+                        <input value="@Model.customer_country" asp-for="customer_country" id="customer_country" type="text" class="form-control" required />
+                        <span id="countryError" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group row">
+                        <a href="#">Change Email?</a>
+                    </div>
+
+                    <div class="form-group row">
+                        <a href="#">Forgot password?</a>
+                    </div>
+
+                    <!-- Submit -->
+                    <div class="form-group row">
+                        <input type="submit" value="Update" class="btn btn-primary btn-m py-3 btn-block" />
+                    </div>
+
+                    <!-- Logout -->
+                    <div class="form-group row">
+                        <a href="@Url.Action("Logout", "Customer")" class="btn btn-danger btn-m py-3 btn-block">
+                            Logout
+                        </a>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/Templates/Product_Page/js/profile-validate.js"></script>

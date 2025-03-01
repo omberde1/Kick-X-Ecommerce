@@ -1,0 +1,67 @@
+@model Product
+@{
+    var products = ViewData["FeaturedProducts"] as List<Product>;
+}
+
+@if (Model != null)
+{
+    <div class="bg-light py-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-0"><a href="/Customer/Home">Home</a>
+                    <span class="mx-2 mb-0">/</span> <a href="/Customer/Store">Store</a>
+                    <span class="mx-2 mb-0">/</span> <a
+                        href="@Url.Action("StoreSearch", "Customer", new { searchInput = @Model.Category!.category_name })">@Model.Category!.category_name</a>
+                    <span class="mx-2 mb-0">/</span> <strong class="text-black">@Model.product_name</strong>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<div class="site-section">
+    <div class="container">
+        <div class="row">
+            @if (Model != null)
+            {
+                <div class="col-md-6">
+                    <img src="~/img/Product_Img/@Model.product_image" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-md-6">
+
+                    <input type="hidden" name="product-id" id="product-id" type="text" value="@Model.product_id">
+                    <h2 class="text-black">@Model.product_name</h2>
+                    <p>@Model.product_description</p>
+                    <p><strong class="text-primary h4"><span>&#8377;</span>@Model.product_price</strong></p>
+                    <div class="mb-5">
+                        <div class="input-group mb-3" style="max-width: 120px;">
+                            <div class="input-group-prepend">
+                                <button class="btn btn-outline-primary js-btn-minus" type="button">&minus;</button>
+                            </div>
+                            <input name="product-quantity" id="product-quantity" type="text" class="form-control text-center" value="1" placeholder=""
+                                aria-label="Example text with button addon" aria-describedby="button-addon1" readonly>
+                            <input type="hidden" name="product-id" id="product-id" type="text" value="@Model.product_id">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-primary js-btn-plus" type="button">&plus;</button>
+                            </div>
+                        </div>
+                    </div>
+                    <p><button type="button" onclick="addToCartUnit()" class="buy-now btn btn-sm btn-primary">Add to Cart</button></p>
+                
+                </div>
+            }
+            else
+            {
+                <div class="product-thumbnail">
+                    <img src="~/Templates/Product_Page/images/noProducts.png" alt="Image" class="img-fluid">
+                </div>
+                <h2 class="text-black h5">No such product found!</h2>
+            }
+        </div>
+    </div>
+</div>
+
+@await Html.PartialAsync("Partial/_FeaturedProducts", products)
+
+@* <script src="~/lib/jquery/dist/jquery.min.js"></script> *@
+@* <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script> *@
+<script src="~/Templates/Product_Page/js/add-to-cart-unit.js"></script>

@@ -1,0 +1,1369 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kick X.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Kick X.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\CRUD_Queries.sql",
+      "PackagePath": "staticwebassets\\CRUD_Queries.sql"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Logo\\KickX_logo.png",
+      "PackagePath": "staticwebassets\\Logo\\KickX_logo.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\buttons.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\buttons.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\cards.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\cards.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\charts.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\charts.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\css\\tailwind.css",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\css\\tailwind.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\css\\tailwind.output.css",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\css\\tailwind.output.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\forms.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\forms.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\create-account-office-2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\create-account-office-2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\create-account-office-dark-2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\create-account-office-dark-2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\create-account-office-dark.jpeg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\create-account-office-dark.jpeg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\create-account-office.jpeg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\create-account-office.jpeg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\dashboard.png",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\dashboard.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\forgot-password-office-dark.jpeg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\forgot-password-office-dark.jpeg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\forgot-password-office.jpeg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\forgot-password-office.jpeg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\github.svg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\github.svg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\login-office-dark.jpeg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\login-office-dark.jpeg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\login-office.jpeg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\login-office.jpeg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\img\\twitter.svg",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\img\\twitter.svg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\index.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\index.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\js\\charts-bars.js",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\js\\charts-bars.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\js\\charts-lines.js",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\js\\charts-lines.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\js\\charts-pie.js",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\js\\charts-pie.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\js\\focus-trap.js",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\js\\focus-trap.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\js\\init-alpine.js",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\js\\init-alpine.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\modals.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\modals.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\pages\\404.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\pages\\404.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\pages\\blank.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\pages\\blank.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\pages\\create-account.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\pages\\create-account.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\pages\\forgot-password.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\pages\\forgot-password.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\pages\\login.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\pages\\login.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Admin_Dashboard\\tables.html",
+      "PackagePath": "staticwebassets\\Templates\\Admin_Dashboard\\tables.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Error404\\index.html",
+      "PackagePath": "staticwebassets\\Templates\\Error404\\index.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Login_Form\\README.markdown",
+      "PackagePath": "staticwebassets\\Templates\\Login_Form\\README.markdown"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Login_Form\\dist\\index.html",
+      "PackagePath": "staticwebassets\\Templates\\Login_Form\\dist\\index.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Login_Form\\license.txt",
+      "PackagePath": "staticwebassets\\Templates\\Login_Form\\license.txt"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Login_Form\\src\\index.html",
+      "PackagePath": "staticwebassets\\Templates\\Login_Form\\src\\index.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Login_Register\\index.html",
+      "PackagePath": "staticwebassets\\Templates\\Login_Register\\index.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\about.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\about.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\cart.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\cart.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\checkout.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\checkout.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\contact.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\contact.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\css\\aos.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\css\\aos.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\css\\style.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\css\\style.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\adidasCollection.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\adidasCollection.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\cartEmpty.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\cartEmpty.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\children.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\children.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\cloth_1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\cloth_1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\cloth_2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\cloth_2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\cloth_3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\cloth_3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\hero_1.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\hero_1.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\homeBg.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\homeBg.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\homeBgShoe_1.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\homeBgShoe_1.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\homeBgShoe_2.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\homeBgShoe_2.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\homeBgShoe_3.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\homeBgShoe_3.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\homeBgShoe_4.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\homeBgShoe_4.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\men.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\nikeCollection.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\nikeCollection.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\noProducts.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\noProducts.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\person_1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\person_2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\person_3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\person_4.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\pumaCollection.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\pumaCollection.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\shoe.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\shoe.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\shoe_1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\shoe_1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\images\\women.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\index.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\index.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\add-to-cart-all.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\add-to-cart-all.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\add-to-cart-unit.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\add-to-cart-unit.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\aos.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\coupon-code.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\coupon-code.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\main.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\main.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\profile-validate.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\profile-validate.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\remove-from-cart.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\remove-from-cart.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\search-bar.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\search-bar.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\prepros-6.config",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\prepros-6.config"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\scss\\style.scss"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\shop-single.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\shop-single.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\shop.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\shop.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page\\thankyou.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page\\thankyou.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\css\\vendor.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\author-item.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\author-item.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\banner-image3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\banner-image3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-image1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-image1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-image2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-image2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-image3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-image3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-image5.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-image5.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-image6.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-image6.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item10.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item10.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item4.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item5.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item5.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item6.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item6.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item7.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item7.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item8.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item8.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-item9.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-item9.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item10.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item10.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item11.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item11.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item12.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item12.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item4.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item5.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item5.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item6.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item6.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item7.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item7.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item8.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item8.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\card-large-item9.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\card-large-item9.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\collection-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\collection-item1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\collection-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\collection-item2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\collection-item4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\collection-item4.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\commentor-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\commentor-item1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\commentor-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\commentor-item2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\commentor-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\commentor-item3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\login-bg.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\main-logo.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-item1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-item2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-item3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-item4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-item4.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-item5.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-item5.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-item6.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-item6.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-item7.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-item7.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-thumb-image1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-thumb-image1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-thumb-image2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-thumb-image2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\post-thumb-image3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\post-thumb-image3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\single-image.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\single-image.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\single-post-item.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\single-post-item.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\single-product-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\single-product-item1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\single-product-thumb1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\single-product-thumb1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\single-product-thumb2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\single-product-thumb2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\single-product-thumb3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\single-product-thumb3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\summary-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\summary-item1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\team-item1.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\team-item1.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\team-item2.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\team-item2.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\team-item3.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\team-item3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\images\\team-item4.jpg",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\images\\team-item4.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\index.html",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\index.html"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\js\\plugins.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\js\\script.js",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\js\\script.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\Templates\\Product_Page_Demo\\style.css",
+      "PackagePath": "staticwebassets\\Templates\\Product_Page_Demo\\style.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\adidas-Crazychaos-2000-Shoes-White_.jpg",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\adidas-Crazychaos-2000-Shoes-White_.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\adidas-campus-00.jpg",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\adidas-campus-00.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\converse-chuck-07.jpg",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\converse-chuck-07.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\converse-chunky.jpg",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\converse-chunky.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\nb-550.png",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\nb-550.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\nb-running-shoes.png",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\nb-running-shoes.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\nike-AIR-FORCE-1-07-FRESH.png",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\nike-AIR-FORCE-1-07-FRESH.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\nike-BLAZER-MID-77.png",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\nike-BLAZER-MID-77.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\puma-Easy-Rider-Vintage.jpg",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\puma-Easy-Rider-Vintage.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\puma-night-runner-V3.jpg",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\puma-night-runner-V3.jpg"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\reebok-classic-reflector.png",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\reebok-classic-reflector.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\img\\Product_Img\\reebok-sneaker.png",
+      "PackagePath": "staticwebassets\\img\\Product_Img\\reebok-sneaker.png"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\CODING_OM\\Kick X\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Kick X.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Kick X.props",
+      "PackagePath": "build\\Kick X.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Kick X.props",
+      "PackagePath": "buildMultiTargeting\\Kick X.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Kick X.props",
+      "PackagePath": "buildTransitive\\Kick X.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

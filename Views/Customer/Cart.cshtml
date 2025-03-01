@@ -1,0 +1,124 @@
+@model List<CartItem>
+
+<div class="bg-light py-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 mb-0"><a href="index.html">Home</a> <span class="mx-2 mb-0">/</span>
+        <strong class="text-black">Cart</strong>
+      </div>
+    </div>
+  </div>
+</div>
+
+@{
+  decimal subTotal = 0;
+}
+<div class="site-section">
+  @if (Model != null && Model.Any())
+  {
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-md-12">
+          <div class="site-blocks-table">
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th class="product-thumbnail">Image</th>
+                  <th class="product-name">Product</th>
+                  <th class="product-quantity">Quantity</th>
+                  <th class="product-total">Total</th>
+                  <th class="product-remove">Remove</th>
+                </tr>
+              </thead>
+              <tbody>
+                @foreach (var cartitem in Model)
+                {
+                  <tr id="cart-item-@cartitem.product_id">
+
+                    @{
+                      subTotal += (decimal)cartitem.Product!.product_price * cartitem.cartitem_product_quantity;
+                    }
+
+                    <td class="product-thumbnail">
+                      <img src="~/img/Product_Img/@cartitem.Product?.product_image" alt="Image" class="img-fluid">
+                    </td>
+                    <td class="product-name">
+                      <h2 class="h5 text-black">@cartitem.Product?.product_name</h2>
+                    </td>
+                    <td>
+                      <div class="input-group mb-3" style="max-width: 120px;">
+                        <div class="input-group-prepend">
+                          <button class="btn btn-outline-primary js-btn-minus" type="button">&minus;</button>
+                        </div>
+                        <input type="text" class="form-control text-center product-quantity"
+                          value="@cartitem.cartitem_product_quantity" data-productid="@cartitem.product_id" readonly>
+                        <div class="input-group-append">
+                          <button class="btn btn-outline-primary js-btn-plus" type="button">&plus;</button>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="per-item-total" data-price="@cartitem.Product?.product_price"
+                      data-subtotal="@(cartitem.Product?.product_price * cartitem.cartitem_product_quantity)">
+                      <span>&#8377;</span>@(cartitem.Product?.product_price * cartitem.cartitem_product_quantity)
+                    </td>
+                    <td>
+                      <button type="button" data-productid="@cartitem.product_id"
+                        class="btn btn-primary btn-sm removeFromCart">X</button>
+                    </td>
+                  </tr>
+                }
+              </tbody>
+            </table>
+
+          </div>
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="col-md-6 pl-5">
+          <div class="row justify-content-end">
+            <div class="col-md-7">
+              <div class="row">
+                <div class="col-md-12 text-right border-bottom mb-5">
+                  <h3 class="text-black h4 text-uppercase">Cart Totals</h3>
+                </div>
+              </div>
+
+              <div class="row mb-5">
+                <div class="col-md-6">
+                  <span class="text-black">Total</span>
+                </div>
+                <div class="col-md-6 text-right" id="subtotal-display">
+                  <strong class="text-black">@subTotal</strong>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-12">
+                  <a href="@Url.Action("Checkout","Customer")"
+                  class="btn btn-primary btn-lg py-3 btn-block">
+                  Proceed To Checkout
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  }
+  else
+  {
+    <div class="d-flex justify-content-center align-items-center flex-column text-center" style="min-height: 50vh;">
+      <div class="product-thumbnail">
+        <img src="~/Templates/Product_Page/images/cartEmpty.png" alt="Image" class="img-fluid">
+        <h2 class="text-black h5">Your cart is empty!</h2>
+      </div>
+    </div>
+  }
+</div>
+
+@* <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script> *@
+<script src="~/Templates/Product_Page/js/add-to-cart-all.js"></script>
+<script src="~/Templates/Product_Page/js/remove-from-cart.js"></script>

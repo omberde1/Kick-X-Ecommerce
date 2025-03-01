@@ -1,0 +1,234 @@
+@model List<Customer>
+
+@{
+    ViewData["Title"] = "Customers";
+}
+
+<!-- Remove everything INSIDE this div to a really blank page -->
+<main class="h-full pb-16 overflow-y-auto">
+  <div class="container grid px-6 mx-auto">
+            <h2 class="my-6 text-2xl font-semibold text-gray-700 dark:text-gray-200">
+            All Customers
+            </h2>
+            <!-- With actions -->
+            @* <h4 class="mb-4 text-lg font-semibold text-gray-600 dark:text-gray-300">
+            Customers
+            </h4> *@
+            <div class="w-full overflow-hidden rounded-lg shadow-xs">
+              <div class="w-full overflow-x-auto">
+                <table class="w-full whitespace-no-wrap">
+                  @* 
+                  Delivered / Shipped / Ordered /Cancelled
+                  <span
+                  class="px-2 py-1 font-semibold leading-tight text-green-700 bg-green-100 rounded-full dark:bg-green-700 dark:text-green-100">
+                  Delivered</span>
+                  <span 
+                  class="px-2 py-1 font-semibold leading-tight text-orange-700 bg-orange-100 rounded-full dark:text-white dark:bg-orange-600">
+                  Shipped</span>
+                  <span
+                  class="px-2 py-1 font-semibold leading-tight text-gray-700 bg-gray-100 rounded-full dark:text-gray-100 dark:bg-gray-700">
+                  Ordered</span>
+                  <span
+                  class="px-2 py-1 font-semibold leading-tight text-red-700 bg-red-100 rounded-full dark:text-red-100 dark:bg-red-700">
+                  Cancelled</span>
+                  *@
+                  <thead>
+                    <tr
+                      class="text-xs font-semibold tracking-wide text-left text-gray-500 uppercase border-b dark:border-gray-700 bg-gray-50 dark:text-gray-400 dark:bg-gray-800"
+                    >
+                      <th class="px-4 py-3">Name</th>
+                      <th class="px-4 py-3">City</th>
+                      <th class="px-4 py-3">Country</th>
+                      <th class="px-4 py-3">Pincode</th>
+                      <th class="px-4 py-3">Status</th>
+                      <th class="px-4 py-3">Actions</th>
+                    </tr>
+                  </thead>
+                  <tbody class="bg-white divide-y dark:divide-gray-700 dark:bg-gray-800">
+                    @{
+                      var statuses = new List<(string Text, string Classes)>
+                        {
+                          ("Delivered", "text-green-700 bg-green-100 dark:bg-green-700 dark:text-green-100"),
+                          ("Shipped", "text-gray-700 bg-gray-100 dark:text-gray-100 dark:bg-gray-700"),
+                          ("Ordered", "text-orange-700 bg-orange-100 dark:text-white dark:bg-orange-600"),
+                          ("Cancelled", "text-red-700 bg-red-100 dark:text-red-100 dark:bg-red-700")
+                        };
+                        var rand = new Random();
+                      }
+                    @foreach(var customers in Model){
+                    var randomStatus = statuses[rand.Next(statuses.Count)];
+                    <tr class="text-gray-700 dark:text-gray-400">
+                      <td class="px-4 py-3">
+                        <div class="flex items-center text-sm">
+                          <!-- Avatar with inset shadow -->
+                          @* <div
+                            class="relative hidden w-8 h-8 mr-3 rounded-full md:block">
+                             <img
+                              class="object-cover w-full h-full rounded-full"
+                              src="~/img/CustomerImg/@customers.customer_image"
+                              alt="Error"
+                              loading="lazy"/> 
+                            <div
+                              class="absolute inset-0 rounded-full shadow-inner"
+                              aria-hidden="true"
+                            ></div>
+                          </div> *@
+                          <div>
+                            <p class="font-semibold">@customers.customer_name</p>
+                            <p class="text-xs text-gray-600 dark:text-gray-400">
+                              @customers.customer_phone
+                            </p>
+                          </div>
+                        </div>
+                      </td>
+                      <td class="px-4 py-3 text-sm">
+                        @customers.customer_city
+                      </td>
+                      <td class="px-4 py-3 text-sm">
+                        @customers.customer_country
+                      </td>
+                      <td class="px-4 py-3 text-sm">
+                        @customers.customer_pincode
+                      </td>
+                      <td class="px-4 py-3 text-xs">
+                        <span
+                        class="px-2 py-1 font-semibold leading-tight @randomStatus.Classes rounded-full">
+                        @randomStatus.Text</span>
+                      </td>
+                      @* <td class="px-4 py-3 text-sm">
+                        6/10/2020
+                      </td> *@
+                      <td class="px-4 py-3">
+                        <div class="flex items-center space-x-4 text-sm">
+                          <a href="@Url.Action("CustomerDetails", "Admin", new { id=customers.customer_id } )"
+                            class="flex items-center justify-between px-2 py-2 text-sm font-medium leading-5 text-purple-600 rounded-lg dark:text-gray-400 focus:outline-none focus:shadow-outline-gray"
+                            aria-label="Details">
+                            <svg
+                              class="w-5 h-5"
+                              aria-hidden="true"
+                              fill="currentColor"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M15 9h3.75M15 12h3.75M15 15h3.75M4.5 19.5h15a2.25 2.25 0 0 0 2.25-2.25V6.75A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25v10.5A2.25 2.25 0 0 0 4.5 19.5Zm6-10.125a1.875 1.875 0 1 1-3.75 0 1.875 1.875 0 0 1 3.75 0Zm1.294 6.336a6.721 6.721 0 0 1-3.17.789 6.721 6.721 0 0 1-3.168-.789 3.376 3.376 0 0 1 6.338 0Z"
+                              ></path>
+                            </svg>
+                          </a>
+
+                          <a href="@Url.Action("CustomerEdit", "Admin", new{id=customers.customer_id})"
+                            class="flex items-center justify-between px-2 py-2 text-sm font-medium leading-5 text-purple-600 rounded-lg dark:text-gray-400 focus:outline-none focus:shadow-outline-gray"
+                            aria-label="Edit">
+                            <svg
+                              class="w-5 h-5"
+                              aria-hidden="true"
+                              fill="currentColor"
+                              viewBox="0 0 20 20"
+                            >
+                              <path
+                                d="M13.586 3.586a2 2 0 112.828 2.828l-.793.793-2.828-2.828.793-.793zM11.379 5.793L3 14.172V17h2.828l8.38-8.379-2.83-2.828z"
+                              ></path>
+                            </svg>
+                          </a>
+
+                          <a href="@Url.Action("CustomerDelete", "Admin", new{id=customers.customer_id})"
+                            class="flex items-center justify-between px-2 py-2 text-sm font-medium leading-5 text-purple-600 rounded-lg dark:text-gray-400 focus:outline-none focus:shadow-outline-gray"
+                            aria-label="Delete">
+                            <svg
+                              class="w-5 h-5"
+                              aria-hidden="true"
+                              fill="currentColor"
+                              viewBox="0 0 20 20"
+                            >
+                              <path
+                                fill-rule="evenodd"
+                                d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z"
+                                clip-rule="evenodd"
+                              ></path>
+                            </svg>
+                          </a>
+
+                        </div>
+                      </td>
+                    </tr> 
+                    }
+                  </tbody>
+                </table>
+              </div>
+
+              @{
+                int totalCustomers = ViewData["TotalCustomers"] != null ? Convert.ToInt32(ViewData["TotalCustomers"]) : 0;
+                int pageSize = ViewData["PageSize"] != null ? Convert.ToInt32(ViewData["PageSize"]) : 10; // Default to 10
+                int currentPage = ViewData["CurrentPage"] != null ? Convert.ToInt32(ViewData["CurrentPage"]) : 1; // Default to 1
+                int totalPages = (int)Math.Ceiling((double)totalCustomers / pageSize);
+              }
+
+              <div
+                class="grid px-4 py-3 text-xs font-semibold tracking-wide text-gray-500 uppercase border-t dark:border-gray-700 bg-gray-50 sm:grid-cols-9 dark:text-gray-400 dark:bg-gray-800"
+              >
+                <span class="flex items-center col-span-3">
+                  Showing @((currentPage-1) * pageSize + 1)-@((currentPage * pageSize)) of @((totalCustomers))
+                </span>
+                <span class="col-span-2"></span>
+
+                <!-- Pagination -->
+
+                <span class="flex col-span-4 mt-2 sm:mt-auto sm:justify-end">
+                  <nav aria-label="Table navigation">
+
+                    <ul class="inline-flex items-center">
+                      @if(currentPage>1){
+                      <li>
+                        <a
+                          class="px-3 py-1 rounded-md rounded-l-lg focus:outline-none focus:shadow-outline-purple"
+                          aria-label="Previous"
+                        asp-action="Customer" asp-route-page="@(currentPage-1)">
+                          <svg
+                            class="w-4 h-4 fill-current"
+                            aria-hidden="true"
+                            viewBox="0 0 20 20"
+                          >
+                            <path
+                              d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+                              clip-rule="evenodd"
+                              fill-rule="evenodd"
+                            ></path>
+                          </svg>
+                        </a>
+                      </li>
+                      }
+                      @for(int i=1; i<=totalPages; i++){
+                      <li>
+                        <a 
+                          class="px-3 py-1 rounded-md focus:outline-none focus:shadow-outline-purple 
+                          @(i == currentPage ? "text-white bg-purple-600 border border-purple-600" : "")"
+                          asp-action="Customer" asp-route-page="@i">@i</a>
+                      </li>
+                      }
+                      @if(currentPage < totalPages){
+                      <li>
+                        <a 
+                          class="px-3 py-1 rounded-md rounded-r-lg focus:outline-none focus:shadow-outline-purple"
+                          aria-label="Next"
+                        asp-action="Customer" asp-route-page="@(currentPage+1)">
+                          <svg
+                            class="w-4 h-4 fill-current"
+                            aria-hidden="true"
+                            viewBox="0 0 20 20"
+                          >
+                            <path
+                              d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                              clip-rule="evenodd"
+                              fill-rule="evenodd"
+                            ></path>
+                          </svg>
+                        </a>
+                      </li>
+                      }
+                    </ul>
+
+                  </nav>
+                </span>
+              </div>
+            </div>
+          </div>
+        </main>

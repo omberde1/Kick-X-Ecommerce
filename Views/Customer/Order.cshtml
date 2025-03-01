@@ -1,0 +1,83 @@
+@model List<Order>
+
+<div class="bg-light py-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-0"><a href="index.html">Home</a> <span class="mx-2 mb-0">/</span> <strong
+                    class="text-black">Orders</strong></div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section">
+    <div class="container">
+        <div class="row mb-5">
+            @if (Model == null || Model.Count == 0)
+            {
+                <div class="product-thumbnail">
+                    <img src="~/Templates/Product_Page/images/noProducts.png" alt="Image" class="img-fluid">
+                </div>
+                <h2 class="text-black h5">No orders yet!</h2>
+            }
+            else
+            {
+                <div class="col-md-12">
+                    <div class="site-blocks-table">
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th class="product-thumbnail">Order #</th>
+                                    <th class="product-name">Placed On</th>
+                                    <th class="product-quantity">Status</th>
+                                    <th class="product-total">Total</th>
+                                    <th class="product-remove">Details</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var order in Model)
+                                {
+                                    <tr>
+
+                                        <td class="product-name">
+                                            <h2 class="h5 text-black">@order.order_uid</h2>
+                                        </td>
+                                        <td class="product-name">
+                                            <h2 class="h5 text-black">@order.order_date</h2>
+                                        </td>
+                                        <td class="product-name">
+                                            @{
+                                                string orderStatus = "";
+                                                switch(order.order_status)
+                                                {
+                                                    case "Pending":
+                                                        orderStatus = "text-warning";
+                                                        break;
+                                                    case "Shipped":
+                                                        orderStatus = "text-primary";
+                                                        break;
+                                                    case "Delivered":
+                                                        orderStatus = "text-success";
+                                                        break;
+                                                }
+                                            }
+                                            <h2 class="h5 text-black @orderStatus">@order.order_status</h2>
+                                        </td>
+                                        <td class="product-name">
+                                            <h2 class="h5 text-black"><span>&#8377;</span>@order.order_subtotal</h2>
+                                        </td>
+               
+                                        <td>
+                                        <a href="@Url.Action("OrderDetails", "Customer", new{orderId = @order.order_id})"
+                                        class="btn btn-primary btn-sm removeFromCart">View</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

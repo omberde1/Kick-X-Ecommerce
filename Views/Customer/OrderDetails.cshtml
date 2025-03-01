@@ -1,0 +1,79 @@
+@model List<OrderItem>
+
+@{ string? orderUID = Model[0].Order?.order_uid; }
+<div class="bg-light py-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 mb-0">
+        <a href="/Customer/Home">Home</a> <span class="mx-2 mb-0">/</span>
+        <a href="/Customer/Order">Orders</a> <span class="mx-2 mb-0">/</span>
+        <strong class="text-black">Order Details @orderUID</strong>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="site-section">
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-md-12">
+          <div class="site-blocks-table">
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th class="product-thumbnail">Image</th>
+                  <th class="product-name">Product Name</th>
+                  <th class="product-quantity">Quantity</th>
+                  <th class="product-total">Total</th>
+                </tr>
+              </thead>
+              <tbody>
+                @foreach (var orderitem in Model)
+                {
+                  <tr>
+
+                    <td class="product-thumbnail">
+                      <img src="~/img/Product_Img/@orderitem.Product?.product_image" alt="Image" class="img-fluid">
+                    </td>
+                    <td class="product-name">
+                      <h2 class="h5 text-black">@orderitem.Product?.product_name</h2>
+                    </td>
+                    <td class="product-name">
+                      <h2 class="h5 text-black">@orderitem.orderitem_product_quantity</h2>
+                    </td>
+                    <td class="per-item-total">
+                      <span>&#8377;</span>@(orderitem.Product?.product_price * orderitem.orderitem_product_quantity)
+                    </td>
+   
+                  </tr>
+                }
+              </tbody>
+            </table>
+
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Back to Orders -->
+      <div class="row">
+        
+        <div class="col-md-6 pl-5">
+          <div class="row justify-content-end">
+            <div class="col-md-7">
+
+              <div class="row">
+                <div class="col-md-12">
+                  <a href="@Url.Action("Order","Customer")"
+                  class="btn btn-primary btn-lg py-3 btn-block">
+                  Back
+                  </a>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
