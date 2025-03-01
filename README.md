@@ -1,6 +1,6 @@
 # Kick X - Shoe Ecommerce Store
 
-Kick X is an e-commerce platform for buying and selling shoes. It features two main user roles: **Admin** and **Customer**, each with distinct functionalities.
+Kick X is an e-commerce platform for buying shoes. It features two main user roles: **Admin** and **Customer**, each with distinct functionalities.
 
 ## Features
 
