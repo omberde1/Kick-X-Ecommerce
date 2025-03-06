@@ -28,7 +28,7 @@ Kick X is an e-commerce platform for buying shoes. It features two main user rol
 - **Backend**: ASP.NET Core (.NET 8)
 - **Frontend**: HTML, CSS, JavaScript, Tailwind CSS
 - **Database**: MSSQL Server w/ Entity Framework Core (Code-First Approach)
-- **Authentication**: Claims-based Authorization
+- **Authentication**: Cookies-based Authorization
 
 ## How to Run the Project
 
